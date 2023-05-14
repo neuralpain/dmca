@@ -1,14 +1,14 @@
+While GitHub did not find sufficient information to determine a valid anti-circumvention claim, we determined that this takedown notice contains other valid copyright claim(s).
+
+---
+
 **Are you the copyright holder or authorized to act on the copyright owner's behalf?**
 
-Yes, I am authorized to act on the copyright owner's behalf.
+Yes, I am the copyright holder.
 
 **Are you submitting a revised DMCA notice after GitHub Trust & Safety requested you make changes to your original notice?**
 
-Yes
-
-**Please provide the Zendesk ticket number of your previously submitted notice. Zendesk ticket numbers are 7 digit ID numbers located in the subject line or body of your confirmation email.**
-
-2104365
+No
 
 **Does your claim involve content on GitHub or npm.js?**
 
@@ -16,24 +16,31 @@ GitHub
 
 **Please describe the nature of your copyright ownership or authorization to act on the owner's behalf.**
 
-This data has been accidently added on public repository instead of Fisker's organization repository. The whole repository https://github.com/MarcoLee1989/CBD1800182_D73 has this data that belongs to Fisker and MarcoLee1989 has forked it.
-Please delete the whole repository from the GitHub as this property belongs to the Fisker organization. So kindly request you to delete the whole repository.
+I am the copyright owner
 
 **Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**
 
-The original copyrighted work is [private] Evaluation Stack license to Fisker for evaluation purposes. This copyrighted work is proprietary and confidential. All the files in the https://github.com/MarcoLee1989/CBD1800182_D73 repository needs to be taken down.
+I own the copyright for pyimagesearch.com and the work is infringed and damanging our business due to publishing our paid content at: https://github.com/BasitJaved/PyImageSearch_University
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL.**
 
-All the files in the https://github.com/MarcoLee1989/CBD1800182_D73 repository needs to be taken down.
+everything here and all forks: https://github.com/BasitJaved/PyImageSearch_University
 
 **Do you claim to have any technological measures in place to control access to your copyrighted content? Please see our <a href="https://docs.github.com/articles/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology">Complaints about Anti-Circumvention Technology</a> if you are unsure.**
 
-No
+Yes
+
+**What technological measures do you have in place and how do they effectively control access to your copyrighted material?**
+
+Our material is behind a paywall via the [private]
+
+**How is the accused project designed to circumvent your technological protection measures?**
+
+Our material was accessed from behind our paywall then posted on GitHub for public use damaging our business.
 
 **<a href="https://docs.github.com/articles/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork">Have you searched for any forks</a> of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.**
 
-No we don't know any additional repositories.
+no
 
 **Is the work licensed under an open source license?**
 
@@ -45,8 +52,7 @@ Reported content must be removed
 
 **Do you have the alleged infringer’s contact information? If so, please provide it.**
 
-I tried to find the contact information but could not find any. Only the user name is MarcoLee1989 that I came to know.
-Also I tried to create issue/pull request but I am not able to create. If you have contact information then request you to share so that I can have some discussions with him.
+https://github.com/BasitJaved
 
 **I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law.**
 
@@ -58,8 +64,7 @@ Also I tried to create issue/pull request but I am not able to create. If you ha
 
 **So that we can get back to you, please provide either your telephone number or physical address.**
 
-[private]  
-Mobile No : [private]
+[private]
 
 **Please type your full legal name below to sign this request.**
 

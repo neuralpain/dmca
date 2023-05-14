@@ -4,11 +4,7 @@ Yes, I am authorized to act on the copyright owner's behalf.
 
 **Are you submitting a revised DMCA notice after GitHub Trust & Safety requested you make changes to your original notice?**
 
-Yes
-
-**Please provide the Zendesk ticket number of your previously submitted notice. Zendesk ticket numbers are 7 digit ID numbers located in the subject line or body of your confirmation email.**
-
-2104365
+No
 
 **Does your claim involve content on GitHub or npm.js?**
 
@@ -16,16 +12,17 @@ GitHub
 
 **Please describe the nature of your copyright ownership or authorization to act on the owner's behalf.**
 
-This data has been accidently added on public repository instead of Fisker's organization repository. The whole repository https://github.com/MarcoLee1989/CBD1800182_D73 has this data that belongs to Fisker and MarcoLee1989 has forked it.
-Please delete the whole repository from the GitHub as this property belongs to the Fisker organization. So kindly request you to delete the whole repository.
+I represent the company as the [private]. We have the copyright ownership of our own proprietary source code that has been made available at GitHub without our consent.
 
 **Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**
 
-The original copyrighted work is [private] Evaluation Stack license to Fisker for evaluation purposes. This copyrighted work is proprietary and confidential. All the files in the https://github.com/MarcoLee1989/CBD1800182_D73 repository needs to be taken down.
+The content is our internal source code for our platform. We have also reviewed GitHub Private Information Removal Policy, and considering that this is a general takedown request and not specific for personal information, we consider a DMCA takedown to be the correct process. The copyrighted work was not intended for publicly disclosure.  
+Link to the repository: https://github.com/dzuev7085/test_analyticalplatform
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL.**
 
-All the files in the https://github.com/MarcoLee1989/CBD1800182_D73 repository needs to be taken down.
+The complete repository should be taken down:  
+https://github.com/dzuev7085/test_analyticalplatform
 
 **Do you claim to have any technological measures in place to control access to your copyrighted content? Please see our <a href="https://docs.github.com/articles/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology">Complaints about Anti-Circumvention Technology</a> if you are unsure.**
 
@@ -33,7 +30,7 @@ No
 
 **<a href="https://docs.github.com/articles/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork">Have you searched for any forks</a> of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.**
 
-No we don't know any additional repositories.
+We have searched for forks, or other repositories publicly available and have not identified any other repositories.
 
 **Is the work licensed under an open source license?**
 
@@ -45,8 +42,7 @@ Reported content must be removed
 
 **Do you have the alleged infringer’s contact information? If so, please provide it.**
 
-I tried to find the contact information but could not find any. Only the user name is MarcoLee1989 that I came to know.
-Also I tried to create issue/pull request but I am not able to create. If you have contact information then request you to share so that I can have some discussions with him.
+No, we have tried to find contact information to the infringer without any success.
 
 **I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law.**
 
@@ -58,8 +54,11 @@ Also I tried to create issue/pull request but I am not able to create. If you ha
 
 **So that we can get back to you, please provide either your telephone number or physical address.**
 
+Phone: [private]  
+Physical address:  
+Nordic Credit Rating AS [private]  
 [private]  
-Mobile No : [private]
+[private]  
 
 **Please type your full legal name below to sign this request.**
 

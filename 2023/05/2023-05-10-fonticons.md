@@ -1,3 +1,7 @@
+While GitHub did not find sufficient information to determine a valid anti-circumvention claim, we determined that this takedown notice contains other valid copyright claim(s).
+
+---
+
 **Are you the copyright holder or authorized to act on the copyright owner's behalf?**
 
 Yes, I am authorized to act on the copyright owner's behalf.
@@ -8,7 +12,7 @@ Yes
 
 **Please provide the Zendesk ticket number of your previously submitted notice. Zendesk ticket numbers are 7 digit ID numbers located in the subject line or body of your confirmation email.**
 
-2104365
+2138739
 
 **Does your claim involve content on GitHub or npm.js?**
 
@@ -16,24 +20,59 @@ GitHub
 
 **Please describe the nature of your copyright ownership or authorization to act on the owner's behalf.**
 
-This data has been accidently added on public repository instead of Fisker's organization repository. The whole repository https://github.com/MarcoLee1989/CBD1800182_D73 has this data that belongs to Fisker and MarcoLee1989 has forked it.
-Please delete the whole repository from the GitHub as this property belongs to the Fisker organization. So kindly request you to delete the whole repository.
+My name is [private], and I am the [private] and [private] of Fonticons, Inc., makers of Font Awesome Free and Font Awesome Pro. I have read and understand GitHub's Guide to Submitting a DMCA Takedown Notice. A repo that GitHub, Inc. hosts is infringing on at least one copyright owned by my company.
 
 **Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**
 
-The original copyrighted work is [private] Evaluation Stack license to Fisker for evaluation purposes. This copyrighted work is proprietary and confidential. All the files in the https://github.com/MarcoLee1989/CBD1800182_D73 repository needs to be taken down.
+An article was copied onto your servers without permission. The original Font Awesome Pro, to which we own the exclusive copyrights, can be found at: https://fontawesome.com/pro. This is in violation of our license at: https://fontawesome.com/license.
+
+The unauthorized and infringing copy can be found at: https://github.com/hung1001/font-awesome-pro-v6.
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL.**
 
-All the files in the https://github.com/MarcoLee1989/CBD1800182_D73 repository needs to be taken down.
+The entire repo at https://github.com/hung1001/font-awesome-pro-v6 should be taken down.
 
 **Do you claim to have any technological measures in place to control access to your copyrighted content? Please see our <a href="https://docs.github.com/articles/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology">Complaints about Anti-Circumvention Technology</a> if you are unsure.**
 
-No
+Yes
+
+**What technological measures do you have in place and how do they effectively control access to your copyrighted material?**
+
+To access our Pro assets, you need to have paid for a license and create an account.
+
+**How is the accused project designed to circumvent your technological protection measures?**
+
+They have taken Pro assets and posted them on a public repository illegally.
 
 **<a href="https://docs.github.com/articles/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork">Have you searched for any forks</a> of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.**
 
-No we don't know any additional repositories.
+Forks  
+@adrian-ovidiu adrian-ovidiu / font-awesome-pro-v6  
+@afgnsu afgnsu / font-awesome-pro-v6  
+@ardaiisteaq ardaiisteaq / font-awesome-pro-v6  
+@ashfahan ashfahan / font-awesome-pro-v6  
+@BaoChn BaoChn / icon  
+@Chaimagharbi Chaimagharbi / font-awesome-pro-v6  
+@Code-JMJ Code-JMJ / font-awesome-pro-v6  
+@DSBRBrasil DSBRBrasil / font-awesome-pro-v6  
+@FlxSNX FlxSNX / font-awesome-pro-v6  
+@fon11731 fon11731 / font-awesome-pro-v6  
+@hormers hormers / font-awesome-pro-v6  
+@kmacute kmacute / font-awesome-pro-v6  
+@malikmubashir1437 malikmubashir1437 / font-awesome-pro-v6  
+@MarTop96 MarTop96 / font-awesome-pro-v6  
+@meetmarvelous meetmarvelous / font-awesome-pro-v6  
+@nhutnguyenbp nhutnguyenbp / font-awesome-pro-v6  
+@rejwan-ahamed rejwan-ahamed / font-awesome-pro-v6  
+@ruiantao ruiantao / font-awesome-pro-v6  
+@shansons7426 shansons7426 / font-awesome-pro-v6  
+@techsols3 techsols3 / font-awesome-pro-v6  
+@tiennguyenvan tiennguyenvan / font-awesome-pro-v6  
+@wori66 wori66 / font-awesome-pro-v6  
+@wowkster wowkster / font-awesome-pro-v6  
+@xianlinzhang xianlinzhang / font-awesome-pro-v6  
+@yutriut yutriut / font-awesome-pro-v6  
+@zacharycode zacharycode / font-awesome-pro-v6  
 
 **Is the work licensed under an open source license?**
 
@@ -45,8 +84,7 @@ Reported content must be removed
 
 **Do you have the alleged infringer’s contact information? If so, please provide it.**
 
-I tried to find the contact information but could not find any. Only the user name is MarcoLee1989 that I came to know.
-Also I tried to create issue/pull request but I am not able to create. If you have contact information then request you to share so that I can have some discussions with him.
+https://github.com/hung1001
 
 **I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law.**
 
@@ -58,8 +96,7 @@ Also I tried to create issue/pull request but I am not able to create. If you ha
 
 **So that we can get back to you, please provide either your telephone number or physical address.**
 
-[private]  
-Mobile No : [private]
+My phone number is [private]
 
 **Please type your full legal name below to sign this request.**
 
